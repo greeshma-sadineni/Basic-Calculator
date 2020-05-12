@@ -1,0 +1,13 @@
+F:\.Net Programs\Basic Calculator\Basic Calculator\bin\Debug\netcoreapp3.1\Basic Calculator.exe
+F:\.Net Programs\Basic Calculator\Basic Calculator\bin\Debug\netcoreapp3.1\Basic Calculator.deps.json
+F:\.Net Programs\Basic Calculator\Basic Calculator\bin\Debug\netcoreapp3.1\Basic Calculator.runtimeconfig.json
+F:\.Net Programs\Basic Calculator\Basic Calculator\bin\Debug\netcoreapp3.1\Basic Calculator.runtimeconfig.dev.json
+F:\.Net Programs\Basic Calculator\Basic Calculator\bin\Debug\netcoreapp3.1\Basic Calculator.dll
+F:\.Net Programs\Basic Calculator\Basic Calculator\bin\Debug\netcoreapp3.1\Basic Calculator.pdb
+F:\.Net Programs\Basic Calculator\Basic Calculator\obj\Debug\netcoreapp3.1\Basic Calculator.csprojAssemblyReference.cache
+F:\.Net Programs\Basic Calculator\Basic Calculator\obj\Debug\netcoreapp3.1\Basic Calculator.csproj.CoreCompileInputs.cache
+F:\.Net Programs\Basic Calculator\Basic Calculator\obj\Debug\netcoreapp3.1\Basic Calculator.AssemblyInfoInputs.cache
+F:\.Net Programs\Basic Calculator\Basic Calculator\obj\Debug\netcoreapp3.1\Basic Calculator.AssemblyInfo.cs
+F:\.Net Programs\Basic Calculator\Basic Calculator\obj\Debug\netcoreapp3.1\Basic Calculator.dll
+F:\.Net Programs\Basic Calculator\Basic Calculator\obj\Debug\netcoreapp3.1\Basic Calculator.pdb
+F:\.Net Programs\Basic Calculator\Basic Calculator\obj\Debug\netcoreapp3.1\Basic Calculator.genruntimeconfig.cache
